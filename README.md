@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @listenDreamWithMe
-- 👀 I’m interested in learning java.
+- 👀 I’m interested in learning java or verilog.
 - 🌱 I’m currently learning ... (a little)
 - 💞️ I’m looking to collaborate on ...(person making progress together)
 - 📫 How to reach me ...will tell you later.
